@@ -47,6 +47,8 @@ See [Example configuration files](https://github.com/DarwinsBuddy/WienerNetzeSma
 This integration uses the API of https://www.wienernetze.at/smartmeter
 All rights regarding the API are reserved by [Wiener Netze](https://www.wienernetze.at/impressum)
 
+Fork from [DarwinsBuddy](https://github.com/DarwinsBuddy/WienerNetzeSmartmeter) to own the code in my HA instance
+
 Special thanks to [platrysma](https://github.com/platysma)
 for providing me a starting point [vienna-smartmeter](https://github.com/platysma/vienna-smartmeter)
 and especially [florianL21](https://github.com/florianL21/)
