@@ -1,16 +1,17 @@
 {
     "domain": "wnsm",
-    "name": "WienerNetzeSmartmeter",
+    "name": "Wiener Netze Smartmeter API",
     "codeowners": [
+        "@wtaferner",
         "@DarwinsBuddy"
     ],
     "config_flow": true,
     "dependencies": [
         "recorder"
     ],
-    "documentation": "https://github.com/DarwinsBuddy/WienerNetzeSmartmeter",
+    "documentation": "https://github.com/wtaferner/WienerNetzeSmartmeter",
     "iot_class": "calculated",
-    "issue_tracker": "https://github.com/DarwinsBuddy/WienerNetzeSmartmeter/issues",
+    "issue_tracker": "https://github.com/wtaferner/WienerNetzeSmartmeter/issues",
     "requirements": [
         "lxml",
         "requests"
